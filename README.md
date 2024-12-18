@@ -14,3 +14,12 @@ To run this project, you will need:
 
 ## Usage
 1. Install the required packages:
+pip install requirements.txt
+2. Open and run the Jupyter Notebook: `your_notebook.ipynb`
+
+## Future Work
+- Integration with RTL-SDR or Baofeng for real-world signal processing.
+- Performance optimization.
+
+## License
+[Choose a license or leave it out if undecided]
